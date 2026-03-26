@@ -1,0 +1,11 @@
+No,Source,Destination,Protocol,Status
+1,10.219.66.189,10.219.66.81,UDP,Normal Normal
+2,10.219.66.189,10.219.66.81,UDP,Normal Normal
+3,10.219.66.81,10.219.66.189,UDP,Normal Normal
+4,10.219.66.81,10.219.66.189,UDP,Normal Normal
+5,10.219.66.189,72.25.64.8,TCP,Normal Normal
+6,10.219.66.189,72.25.64.8,TCP,Normal Normal
+7,10.219.66.189,72.25.64.8,TCP,Normal Normal
+8,10.219.66.189,72.25.64.8,TCP,Normal Normal
+9,10.219.66.189,72.25.64.8,TCP,Normal Normal
+10,10.219.66.189,72.25.64.8,TCP,Normal Normal
